@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xhayper)](https://github.com/anuraghazra/github-readme-stats)
 I do Javascript, Typescript, Java, lua.
 
 Favorite Language (Best - Worst): Typescript, Javascript, Java, lua.
