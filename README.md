@@ -7,4 +7,4 @@ Dream Language: C#, C++, C
 
 Contacts:
 Twitter: [hayper1919](https://twitter.com/hayper1919)<br>
-Discord: hayper#2827
+Discord: hayper#0001
