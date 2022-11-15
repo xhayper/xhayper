@@ -1,10 +1,10 @@
 # Hewwo!
 
-I am **hayper**! a furry backend developer! i love to work on backend related stuff, this included but not limited to [game modding](https://github.com/xhayper/COTL_API), [web development](https://github.com/xhayper/Cult-of-the-Lamb-Save-Editor/tree/patch-1) and [discord bot](https://github.com/xhayper/dr-k-bot)!
+I am **hayper**! a furry backend developer! I love to work on backend related stuff, this includs but is limited to [game modding](https://github.com/xhayper/COTL_API), [web development](https://github.com/xhayper/Cult-of-the-Lamb-Save-Editor/tree/patch-1) and [discord bot](https://github.com/xhayper/dr-k-bot)!
 
-I spent a lot of my free time programming and try to improve my skill!
+I spend a lot of my free time programming and trying to improve my skill!
 
-## Social
+## Socials
 
 - [Twitter](https://twitter.com/hayper1919)
 - [Website](https://website-xhayper.vercel.app/)
@@ -21,7 +21,7 @@ I spent a lot of my free time programming and try to improve my skill!
   </a>
 </p>
 
-## Stat
+## Stats
 
 <table align="center">
   <tr>
@@ -59,7 +59,7 @@ I spent a lot of my free time programming and try to improve my skill!
   </tr>
 </table>
 
-## Visit
+## Visits
 
 <p align="center">
   <a href="https://moe-counter.hayper.repl.co/" target="_blank">
