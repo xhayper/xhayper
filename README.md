@@ -16,7 +16,7 @@ I spend a lot of my free time programming and trying to improve my skill!
 <p align="center">
   <a href="https://skillicons.dev/" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=astro,bash,bootstrap,cs,css,deno,discord,bots,dotnet,electron,express,git,github,githubactions,html,idea,java,js,linux,lua,md,nextjs,nodejs,nuxtjs,prisma,py,react,regex,sass,sqlite,stackoverflow,twitter,ts,vercel,vite,vscode,vue,windicss&theme=dark"
+      src="https://skillicons.dev/icons?i=astro,bash,bootstrap,cs,css,deno,discord,bots,dotnet,electron,express,git,github,githubactions,html,idea,java,js,linux,lua,md,nextjs,nodejs,nuxtjs,prisma,py,react,regex,sass,sqlite,stackoverflow,tailwind,twitter,ts,vercel,vite,vscode,vue,windicss&theme=dark"
     />
   </a>
 </p>
