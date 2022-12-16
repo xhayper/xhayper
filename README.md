@@ -64,7 +64,7 @@ I spend a lot of my free time programming and trying to improve my skill!
 <p align="center">
   <a href="https://moe-counter.hayper.repl.co/" target="_blank">
     <img
-      src="https://moe-counter.hayper.repl.co/count/a285f775?theme=e621"
+      src="https://moe-counter.hayper.repl.co/count/a285f775?theme=e621&format=png"
       alt="xhayper's visit count"
     />
   </a>
