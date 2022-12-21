@@ -77,5 +77,8 @@ I spend a lot of my free time programming and trying to improve my skill!
   </a>
 </p>
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
 <p align="center">...no longer.... use arch... btw...</p>
