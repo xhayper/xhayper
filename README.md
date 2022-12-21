@@ -1,6 +1,6 @@
 # Hewwo!
 
-I am **hayper**! a furry backend developer! I love to work on backend related stuff, this includes but is limited to [game modding](https://github.com/xhayper/COTL_API), [web development](https://github.com/xhayper/Cult-of-the-Lamb-Save-Editor/tree/patch-1) and [discord bot](https://github.com/xhayper/dr-k-bot)!
+I am **hayper**! a furry backend developer! I love to work on backend related stuff, this includes but not limited to [game modding](https://github.com/xhayper/COTL_API), [web development](https://github.com/xhayper/Cult-of-the-Lamb-Save-Editor/tree/patch-1) and [discord bot](https://github.com/xhayper/dr-k-bot)!
 
 I spend a lot of my free time programming and trying to improve my skill!
 
