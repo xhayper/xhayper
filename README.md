@@ -8,8 +8,8 @@ I spend a lot of my free time programming and trying to improve my skill!
 
 - [Twitter](https://twitter.com/hayper1919)
 - [Website](https://website-xhayper.vercel.app/)
-- Discord: hayper#6879
-- Revolt: hayper
+- Discord: xhayper
+- Revolt: hayper#5357
 
 ## Tech
 
