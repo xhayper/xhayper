@@ -9,6 +9,7 @@ I spend a lot of my free time programming and trying to improve my skill!
 - [Twitter](https://twitter.com/hayper1919)
 - [Website](https://website-xhayper.vercel.app/)
 - [Mastodon](https://furry.engineer/@hayper)
+- [Bluesky](https://bsky.app/profile/hayper.bsky.social)
 - Discord: xhayper
 - Revolt: hayper#5357
 
