@@ -4,6 +4,8 @@ I am **hayper**! a furry backend developer! I love to work on backend related st
 
 I spend a lot of my free time programming and trying to improve my skill!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O774UCV)
+
 ## Socials
 
 - [Twitter](https://twitter.com/hayper1919)
