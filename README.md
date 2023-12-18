@@ -66,9 +66,9 @@ I spend a lot of my free time programming and trying to improve my skill!
 ## Visits
 
 <p align="center">
-  <a href="https://moe-counter.hayper.repl.co/" target="_blank">
+  <a href="https://pi.hayper.xyz/rust-counter/" target="_blank">
     <img
-      src="https://moe-counter.hayper.repl.co/count/a285f775?theme=e621&format=png"
+      src="https://pi.hayper.xyz/rust-counter/count/a285f775?theme=e621"
       alt="xhayper's visit count"
     />
   </a>
