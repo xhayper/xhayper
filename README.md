@@ -62,25 +62,6 @@ I spend a lot of my free time programming and trying to improve my skill!
     </td>
   </tr>
 </table>
-
-## Visits
-
-<p align="center">
-  <a href="https://pi.hayper.xyz/rust-counter/" target="_blank">
-    <img
-      src="https://pi.hayper.xyz/rust-counter/count/a285f775?format=png&theme=e621"
-      alt="xhayper's visit count"
-    />
-  </a>
-  <br />
-  <a href="https://count.getloli.com/" target="_blank">
-    <img
-      src="https://count.getloli.com/get/@a285f775?theme=rule34"
-      alt="xhayper's visit count"
-    />
-  </a>
-</p>
-
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
