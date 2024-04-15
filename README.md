@@ -15,16 +15,6 @@ I spend a lot of my free time programming and trying to improve my skill!
 - Discord: xhayper
 - Revolt: hayper#5357
 
-## Tech
-
-<p align="center">
-  <a href="https://skillicons.dev/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=astro,bash,bootstrap,cs,css,deno,discord,bots,dotnet,electron,express,git,github,githubactions,html,idea,java,js,lua,md,mysql,neovim,nextjs,nodejs,nuxtjs,prisma,py,raspberrypi,react,regex,sass,sqlite,stackoverflow,tailwind,twitter,ts,vercel,vite,vscode,vue,windicss&theme=dark"
-    />
-  </a>
-</p>
-
 ## Stats
 
 <table align="center">
