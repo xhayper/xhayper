@@ -9,8 +9,6 @@
 
 ---
 
-## Introduction
-
 Hello! I am hayper! a student learning about Backend Software Engineer!
 
 ## Stats
