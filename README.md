@@ -15,8 +15,8 @@ Hello! I am hayper! a student learning about Backend Software Engineer!
 
 ## Stats
 
-[![xhayper's GitHub stats-Dark](https://xhayper-github-readme-stats.vercel.app/api?username=xhayper&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![xhayper's GitHub stats-Light](https://xhayper-github-readme-stats.vercel.app/api?username=xhayper&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![xhayper's GitHub stats-Dark](https://xhayper-github-readme-stats.vercel.app/api?username=xhayper&show_icons=true&theme=dark&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![xhayper's GitHub stats-Light](https://xhayper-github-readme-stats.vercel.app/api?username=xhayper&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![xhayper's Top Langs-Dark](https://xhayper-github-readme-stats.vercel.app/api/top-langs/?username=xhayper&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![xhayper's Top Langs-Light](https://xhayper-github-readme-stats.vercel.app/api/top-langs/?username=xhayper&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
