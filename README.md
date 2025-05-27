@@ -1,5 +1,5 @@
 <h3 align="center">
-こんにち~
+你好啊~！
 </h3>
 
 <p align="center">
