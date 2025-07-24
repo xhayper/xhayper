@@ -11,6 +11,10 @@
 
 ✨ Hi there! I’m **hayper** — a student studying Software Engineering!
 
+🌟 **About me:**
+- 🧩 I mainly code in **TypeScript**!
+- 💬 Feel free to say hi — I don’t bite
+
 ## 📚 Table of Contents
 
 - [🐺 About Me](#-about-me)
@@ -37,14 +41,6 @@
 ## 🏆 Trophy Wall
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xhayper&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-🌟 **About me:**
-- 🧩 I mainly code in **TypeScript**!
-- 💬 Feel free to say hi — I don’t bite! 
-
----
 
 **Have a pawsome day! 🐾✨**
 
